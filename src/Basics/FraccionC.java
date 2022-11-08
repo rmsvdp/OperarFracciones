@@ -1,3 +1,4 @@
+package Basics;
 
 public class FraccionC {
 	 private int num;
